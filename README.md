@@ -37,9 +37,9 @@
 
 ### 🌱 How to Reach Me
 
-- 📫 **Email:** [loayaljadebi@gmail.com](mailto:loayaljadebi@gmail.com)
-- ☎️ **Phone / WhatsApp:** [+967 770000000](https://wa.me/967770000000)
-- 🔗 **LinkedIn:** [Loay Al-Jadebi](https://linkedin.com/in/loay-aljadebi)
-- [cite_start]📍 **Location:** Sana’a, Yemen [cite: 11]
+- 📫 **Email:** [engloayaljadabi@gmail.com](mailto:engloayaljadabi@gmail.com)
+- ☎️ **Phone / WhatsApp:** [+967 773634367](https://wa.me/967773634367)
+- 🔗 **LinkedIn:** [Eng Loay](https://mailto:linkedin.com/in/eng-loay-0a8a49340i)
+- 📍 **Location:** Sana’a, Yemen
 
 *"Clean code is not written once — every commit is an opportunity for improvement."*
