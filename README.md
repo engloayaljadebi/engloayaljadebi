@@ -46,5 +46,12 @@
 - ☎️ **Phone / WhatsApp:** [+967 773634367](https://wa.me/967773634367)
 - 🔗 **LinkedIn:** [Eng Loay](https://mailto:linkedin.com/in/eng-loay-0a8a49340i)
 - 📍 **Location:** Sana’a, Yemen
+### 🌱 Connect with me
+<div align="center">
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967770000000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loay-aljadebi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loayaljadebi@gmail.com)
+
+</div>
 *"Clean code is not written once — every commit is an opportunity for improvement."*
