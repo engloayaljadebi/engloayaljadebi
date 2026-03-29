@@ -42,7 +42,7 @@
 
 ### 🌱 How to Reach Me
 
-- 📫 **Email:** [engloayaljadabi@gmail.com](mailto:engloayaljadabi@gmail.com)
+- 📫 **Email:** [engloayaljadabi@gmail.com](https:engloayaljadabi@gmail.com)
 - ☎️ **Phone / WhatsApp:** [+967 773634367](https://wa.me/967773634367)
 - 🔗 **LinkedIn:** [Eng Loay](https://mailto:linkedin.com/in/eng-loay-0a8a49340i)
 - 📍 **Location:** Sana’a, Yemen
